@@ -1,6 +1,6 @@
 <html> 
 <head> 
-<title>Politique de confidentialité</title> 
+Politique de confidentialité
 </head> 
 
 <body> <h1>Politique de confidentialité</h1> 
