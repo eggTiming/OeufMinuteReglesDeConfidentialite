@@ -1,9 +1,9 @@
 <html> 
 <head> 
-Politique de confidentialité
+Politique de confidentialité Oeuf Minute - Egg Timing
 </head> 
 
-<body> <h1>Politique de confidentialité</h1> 
+<body> <h1>Politique de confidentialité Oeuf Minute - Egg Timing</h1> 
 <p>Cette page vous informe de la façon dont nous collectons, utilisons et protégeons vos données personnelles lorsque vous utilisez notre site web ou notre application.</p> 
 
 <p> 
